@@ -17,3 +17,6 @@ terraform.rc
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+# Remove .DS_Store
+**/.DS_Store
